@@ -1,4 +1,4 @@
-## 1. Crie um Ambiente Virtual
+## 1. Criar um Ambiente Virtual
 
 Recomenda-se criar um ambiente virtual para isolar as dependências da aplicação:
 
@@ -7,7 +7,7 @@ python -m venv venv
 ```
 ---
 
-### 🧪 **2. Ative o Ambiente Virtual**
+### 🧪 **2. Ativar o Ambiente Virtual**
 **Windows (cmd):**
 
 ```bash
@@ -19,15 +19,16 @@ source venv/bin/activate
 ```
 ---
 
-### 📦 **3. Instale as Dependências**
+### 📦 **3. Instalar as Dependências**
 
 ```bash
 pip install -r requirements.txt
 ```
-### 🚀 **4. Execute a Aplicação**
+### 🚀 **4. Executar a Aplicação**
 
 Com as dependências instaladas, rode o aplicativo com o comando:
 
 ```bash
 python app.py
 ```
+
